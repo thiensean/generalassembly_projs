@@ -1,4 +1,4 @@
-# Project 3 - Ames Housing Data and Kaggle Challenge
+# Project 3 - Web scraping and Subreddit Classification
 
 
 ### Problem Statement
